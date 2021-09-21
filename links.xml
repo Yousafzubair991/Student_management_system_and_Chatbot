@@ -1,0 +1,83 @@
+<pages>
+<link>
+<title>About us</title>
+<url>about.php</url>
+</link>
+<link>
+<title>Contact us</title>
+<url>contact.php</url>
+</link>
+<link>
+<title>Home</title>
+<url>index.php</url>
+</link>
+<link>
+<title>Index</title>
+<url>index.php</url>
+</link>
+<link>
+<title>News</title>
+<url>News.php</url>
+</link>
+<link>
+<title>Login Portal</title>
+<url>loginportal.php</url>
+</link>
+<link>
+<title>Coordinator Login</title>
+<url>Coordinator/login.php</url>
+</link>
+<link>
+<title>Admin Login</title>
+<url>Admin/login.php</url>
+</link>
+<link>
+<title>Student Login</title>
+<url>Student/login.php</url>
+</link>
+<link>
+<title>Courses</title>
+<url>courses.php</url>
+</link>
+<link>
+<title>Software Engineering Courses</title>
+<url>courses.php</url>
+</link>
+<link>
+<title>Faculty of Software Engineering</title>
+<url>faculty.php</url>
+</link>
+<link>
+<title>Faculty Members</title>
+<url>faculty.php</url>
+</link>
+<link>
+<title>Block</title>
+<url>block.php</url>
+</link>
+<link>
+<title>Department</title>
+<url>block.php</url>
+</link>
+<link>
+<title>FAQ's</title>
+<url>faqs.php</url>
+</link>
+<link>
+<title>Success Stories</title>
+<url>success stories.php</url>
+</link>
+<link>
+<title>Events</title>
+<url>events.php</url>
+</link>
+<link>
+<title>Policy</title>
+<url>privacypolicy.php</url>
+</link>
+<link>
+<title>Privacy Policy</title>
+<url>privacypolicy.php</url>
+</link>
+
+</pages>
